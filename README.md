@@ -31,5 +31,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="AWS" width="40" height="40"/>
 </div>
 
-
+__________________________________________________________________________________________________________________________________________________________________________________________________________
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=olga-fin-22)](https://github.com/olga-fin-22/github-readme-stats)                                            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olga-fin-22)](https://github.com/olga-fin-22/github-readme-stats)
