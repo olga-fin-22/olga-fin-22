@@ -3,7 +3,7 @@
 </div>
 
 - 🌱 I’m currently enrolled in the Yandex Practicum Data Analyst course.
-- 😄  It is inspiring to find relationships in these data that help solve problems, improving modern life.
+- 😄  It is inspiring to find relationships in these data that help solve problems, improving modern life.  I use Python, SQL, and Tableau visualization to solve problems.
 
 
 
