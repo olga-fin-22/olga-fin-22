@@ -1,11 +1,6 @@
 <div id="header" align="center">
-  <hl>Hi there, I'm Olga Drungelas👋</hl>
-  <h3>Data analyst from Samara.</h3>
+  <h3>Hi there, I'm Olga Drungelas👋 Data analyst from Samara.</h3>
 </div>
-
-**olga-fin-22/olga-fin-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
