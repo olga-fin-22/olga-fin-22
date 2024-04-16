@@ -9,7 +9,7 @@
 
 ### Connect with me:
 <div>      
-   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/telegram.svg" title="telegram" alt="AWS" width="40" height="40"/>
+   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/telegram.svg"(https://t.me/olga_drung_22) title="telegram" alt="AWS" width="40" height="40"/>
 </div>
 
 ###  Languages and Tools :
