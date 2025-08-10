@@ -19,7 +19,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="sql" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="AWS" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/scipy.svg" title="scipy" alt="AWS" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="AWS" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="AWS" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gitlab.svg" title="gitlab" alt="AWS" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="AWS" width="40" height="40"/>
 </div>
 
